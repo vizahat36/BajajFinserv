@@ -6,7 +6,7 @@ This repository contains a small **Spring Boot** application used to:
 - Obtain an access token  
 - Submit a final SQL query to the assessment endpoint  
 
-It was prepared as the submission for the **Bajaj Finserv SQL Assignment (Question 2)** assigned using **Reg. No: U25UV23T006068**.
+It was prepared as the submission for the **Bajaj Finserv SQL Assignment (Question 2)** assigned using **Reg. No: XXXXXXXX6068**.
 
 ---
 
@@ -23,7 +23,7 @@ It was prepared as the submission for the **Bajaj Finserv SQL Assignment (Questi
 
 ## 🧾 Quick Summary
 
-- **RegNo used:** `U25UV23T006068`  
+- **RegNo used:** `XXXXXXXX6068`  
 - **Assigned question:** Question 2 (Even → last two digits = 68)
 
 ### ✅ Final SQL Submitted
